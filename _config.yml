@@ -2,9 +2,9 @@
 title: Thomas Bassetto
 email: tbassetto@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Software Engineer, with a focus on web technologies. Google Developer Expert Chrome: HTML5.
+  Software Engineer, with a focus on web technologies. Google Developer Expert Web Technologies.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://thomasbassetto.com" # the base hostname & protocol for your site
+url: "http://thomasbassetto.com" # the base hostname & protocol for your site
 twitter_username: tbassetto
 github_username:  tbassetto
 

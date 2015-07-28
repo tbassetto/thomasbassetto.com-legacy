@@ -6,3 +6,5 @@ build:
 
 deploy: build
 	surge _site
+
+all: serve
