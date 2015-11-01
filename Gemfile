@@ -1,4 +1,4 @@
 source 'https://rubygems.org'
-gem 'jekyll'
-gem 'rouge'
+gem 'jekyll', '>=3.0.0'
 gem 'jekyll-sitemap'
+gem 'classifier-reborn'
