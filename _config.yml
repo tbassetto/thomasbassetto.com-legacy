@@ -1,7 +1,6 @@
 # Site settings
 title: Thomas Bassetto
-email: tbassetto@gmail.com
-description: UI Engineer, with a focus on web technologies. Google Developer Expert Web Technologies.
+description: "Senior Software Engineer at DNV"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://thomasbassetto.com" # the base hostname & protocol for your site
 twitter_username: tbassetto
@@ -10,7 +9,6 @@ github_username:  tbassetto
 permalink: /blog/:title/
 lsi: true
 
-include: ["_pages"]
 exclude: [".editorconfig", ".gitignore", "Gemfile", "Gemfile.lock", "Makefile", "README.md"]
 
 # Build settings
